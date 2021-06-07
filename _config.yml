@@ -30,7 +30,7 @@ linkedin_username: nunes-jonathas
 
 # Build settings
 # theme: minima
-remote_theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
