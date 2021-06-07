@@ -29,7 +29,7 @@ github_username:  nunesjonathas
 linkedin_username: nunes-jonathas
 
 # Build settings
-theme: minima
+# theme: minima
 remote_theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
