@@ -29,8 +29,8 @@ github_username:  nunesjonathas
 linkedin_username: nunes-jonathas
 
 # Build settings
-# theme: minima
-theme: minimal-mistakes-jekyll
+theme: minima
+# theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
