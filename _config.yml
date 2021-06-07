@@ -30,9 +30,10 @@ linkedin_username: nunes-jonathas
 
 # Build settings
 theme: minima
-# theme: minimal-mistakes-jekyll
+remote_theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
