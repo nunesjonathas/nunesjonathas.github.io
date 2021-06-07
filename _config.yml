@@ -29,11 +29,24 @@ github_username:  nunesjonathas
 linkedin_username: nunes-jonathas
 
 # Build settings
-# theme: minima
+theme: minima
 remote_theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-include-cache
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
