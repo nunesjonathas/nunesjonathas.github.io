@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Sobre mim"
+    url: /about/
+  - title: "Posts"
+    url: /year-archive/
+  - title: "Categorias"
+    url: /categories/
+  - title: "Portfolio"
+    url: /portfolio/
