@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 hidden: true
-title: Olá
+title: Em desenvolvimento
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/bg3.jpg
